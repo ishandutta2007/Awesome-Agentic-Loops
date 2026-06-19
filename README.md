@@ -78,6 +78,20 @@ Contributions are welcome! Please read the contribution guidelines to get starte
 
 ---
 
+## 📈 Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Agentic-Loops&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Agentic-Loops&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Agentic-Loops&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Agentic-Loops&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
+
+---
+
 *Keywords: AI Agents, Agentic Loops, Autonomous Agents, LLM Orchestration, Reason-Act-Observe-Repeat, Cognitive Architectures, Multi-Agent Systems, LangChain, CrewAI, AutoGPT.*
+
 
 
